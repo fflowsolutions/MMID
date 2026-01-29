@@ -1,3 +1,5 @@
+//Code is generated with AI
+
 #include <Adafruit_NeoPixel.h>
 
 // PINS (Grove Base Shield)
